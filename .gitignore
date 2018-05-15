@@ -1,0 +1,5 @@
+/node_modules
+credential.json
+package-lock.json
+yarn-lock.json
+.DS_Store
